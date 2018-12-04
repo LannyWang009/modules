@@ -1,2 +1,2 @@
 
-module.exports = "This is a string";
+module.exports = "This is a string"
